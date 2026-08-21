@@ -13,7 +13,7 @@
 
 Este repositorio contiene el código que acompaña al libro: un *notebook* de Jupyter por capítulo, listo para ejecutarse en Google Colab sin instalar nada, y la versión en *script* de Python (`.py`) de cada uno de ellos.
 
-Todos los ejemplos utilizan datos sintéticos inspirados en problemas científicos reales (espectroscopía, propiedades moleculares, transiciones de fase, ciencia de materiales, series temporales físicas…), de modo que cada técnica se aprende en el contexto en el que un estudiante de ciencias la va a usar.
+El libro está dirigido a estudiantes de física, química, biología, matemáticas y, en general, de cualquier disciplina científica. Todos los ejemplos utilizan datos sintéticos inspirados en problemas científicos reales (espectroscopía, propiedades moleculares, transiciones de fase, ciencia de materiales, series temporales físicas…), de modo que cada técnica se aprende en el contexto en el que un estudiante de ciencias la va a usar.
 
 ## Contenido por capítulos
 
