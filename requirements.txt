@@ -1,0 +1,21 @@
+# Dependencias del material complementario de
+# "Inteligencia artificial para estudiantes de ciencias" (Ed. Piramide, 2026)
+
+# Nucleo cientifico
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+matplotlib>=3.8
+
+# Aprendizaje automatico clasico (Bloques I y II)
+scikit-learn>=1.4
+scikit-optimize>=0.10   # Optimizacion bayesiana (cap. 7)
+shap>=0.45              # Interpretabilidad (cap. 7)
+
+# Aprendizaje profundo (Bloques III y IV)
+torch>=2.2
+torchvision>=0.17
+transformers>=4.40      # Modelos preentrenados (cap. 12)
+
+# Entorno de trabajo
+jupyterlab>=4.0
